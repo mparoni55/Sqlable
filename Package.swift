@@ -10,6 +10,6 @@ import PackageDescription
 
 let package = Package(name: "Sqlable",
 	dependencies: [
-		.Package(url: "https://github.com/ulrikdamm/CSQLite.git", majorVersion: 1)
+		.Package(url: "https://github.com/mparoni55/CSQLite.git", majorVersion: 1)
 	]
 )
